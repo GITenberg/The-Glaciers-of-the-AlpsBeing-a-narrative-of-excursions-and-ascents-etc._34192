@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/561
     wikipedia: http://en.wikipedia.org/wiki/John_Tyndall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34192#The-Glaciers-of-the-AlpsBeing-a-narrative-of-excursions-and-ascents-etc.
 gutenberg_issued: '2010-11-02'
 gutenberg_type: Text
 identifiers:
